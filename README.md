@@ -1,3 +1,8 @@
+<!-- ========================================================= -->
+<!--                    JOAN AREIZA README                      -->
+<!--                  github.com/joan-areiza                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077B6,100:00B4D8&height=200&section=header&text=Joan%20Areiza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Data%20Engineer&descAlignY=55&descSize=18"/>
