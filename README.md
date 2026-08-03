@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/simple-icons/readme.svg?color=white" width="26"/> Summary
+## <img src="https://api.iconify.design/simple-icons/readme.svg?color=white" width="20"/> Summary
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280"/>
 
@@ -25,7 +25,7 @@ Currently expanding my expertise in Software Architecture, Cloud Computing, and 
 
 ---
 
-## <img src="https://api.iconify.design/mdi/wrench.svg?color=white" width="26"/> Tech Stack
+## <img src="https://api.iconify.design/mdi/wrench.svg?color=white" width="20"/> Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Currently expanding my expertise in Software Architecture, Cloud Computing, and 
 
 ---
 
-## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=white" width="26"/> Featured Projects
+## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=white" width="20"/> Featured Projects
 
 <table>
 <tr>
