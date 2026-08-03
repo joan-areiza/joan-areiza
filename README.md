@@ -111,3 +111,60 @@ Interactive dashboards for business analytics and reporting.
 </table>
 
 ---
+
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=white" width="26"/> Current Focus
+
+Currently improving my knowledge in:
+
+- Clean Architecture
+- Design Patterns
+- Docker
+- REST API Development
+- Cloud Computing
+- Open Source Contributions
+
+---
+
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=white" width="26"/> GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joan-areiza&hide_border=true&background=00000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&dates=7DD3FC&stroke=0077B6"/>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=white" width="26"/> Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joan-areiza&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi/email.svg?color=white" width="26"/> Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tu_correo@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/joan-areiza">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:023047&height=120&section=footer"/>
+
+</div>
