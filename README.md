@@ -11,7 +11,9 @@
 
 </div>
 
-<img src="https://api.iconify.design/simple-icons/readme.svg?color=white" width="26"/> Summary
+---
+
+## <img src="https://api.iconify.design/simple-icons/readme.svg?color=white" width="26"/> Summary
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280"/>
 
@@ -21,102 +23,86 @@ Currently expanding my expertise in Software Architecture, Cloud Computing, and 
 
 <br clear="right"/>
 
-<img src="https://api.iconify.design/mdi/wrench.svg?color=white" width="26"/> Tech Stack
+---
+
+## <img src="https://api.iconify.design/mdi/wrench.svg?color=white" width="26"/> Tech Stack
 
 <div align="center">
 
-Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,cs,php"/>
 
-Frameworks & Databases
+**Frameworks & Databases**
 
 <img src="https://skillicons.dev/icons?i=spring,bootstrap,mysql"/>
 
-Tools & Platforms
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powerbi"/>
 
-Systems & Infrastructure
+**Systems & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker"/>
 
 </div>
 
-Artificial Intelligence: Prompt Engineering · LLM Integration · AI Workflow Automation
+**AI:** Prompt Engineering · LLM Integration · AI Workflow Automation
 
-<img src="https://api.iconify.design/mdi/rocket-launch.svg?color=white" width="26"/> Featured Projects
+---
 
-Project
+## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=white" width="26"/> Featured Projects
 
-Description
+<table>
+<tr>
+<td width="50%">
 
-Banking API
+### Banking API
 
-REST API focused on authentication, security and scalability. Tech: Java Spring Boot MySQL JWT Swagger
+REST API focused on authentication, security, and scalability.
 
-AI Assistant
+**Technologies**
 
-Intelligent assistant powered by LLM integration and workflow automation. Tech: Python Prompt Engineering APIs
+`Java` `Spring Boot` `MySQL` `JWT` `Swagger`
 
-Inventory Management System
+</td>
+<td width="50%">
 
-Inventory platform for SMEs. Tech: Java MySQL Bootstrap
+### AI Assistant
 
-Business Dashboard
+Intelligent assistant powered by LLM integration and workflow automation.
 
-Interactive business analytics dashboards. Tech: Power BI Excel SQL
+**Technologies**
 
-<img src="https://api.iconify.design/mdi/chart-line.svg?color=white" width="26"/> Current Focus
+`Python` `Prompt Engineering` `APIs`
 
-Clean Architecture
+</td>
+</tr>
+<tr>
+<td>
 
-Design Patterns
+### Inventory Management System
 
-Docker
+Inventory management platform designed for robust solutions for SMEs.
 
-REST API Development
+**Technologies**
 
-Cloud Computing
+`Java` `MySQL` `Bootstrap`
 
-Open Source Contributions
+</td>
+<td>
 
-<img src="https://api.iconify.design/mdi/chart-bar.svg?color=white" width="26"/> GitHub Statistics
+### Business Dashboard
 
-<div align="center">
+Interactive dashboards for business analytics and reporting.
 
-<img src="https://streak-stats.demolab.com?user=joan-areiza&hide_border=true&background=00000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&dates=7DD3FC&stroke=0077B6"/>
+**Technologies**
 
-</div>
+`Power BI` `Excel` `SQL`
 
-<img src="https://api.iconify.design/mdi/chart-line.svg?color=white" width="26"/> Contribution Activity
+</td>
 
-<div align="center">
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joan-areiza&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<img src="https://api.iconify.design/mdi/email.svg?color=white" width="26"/> Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/TU-USUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your_email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/joan-areiza">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0077B6,100:023047&height=120&section=footer"/>
-
-<
+---
