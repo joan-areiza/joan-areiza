@@ -50,9 +50,9 @@ Currently expanding my expertise in Software Architecture, Cloud Computing, and 
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker"/>
 
-</div>
+**AI: ** Prompt Engineering · LLM Integration · AI Workflow Automation
 
-**AI: Prompt Engineering · LLM Integration · AI Workflow Automation** 
+</div>
 
 ---
 
