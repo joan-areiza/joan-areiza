@@ -52,7 +52,7 @@ Currently expanding my expertise in Software Architecture, Cloud Computing, and 
 
 </div>
 
-**AI:** Prompt Engineering · LLM Integration · AI Workflow Automation
+**AI: Prompt Engineering · LLM Integration · AI Workflow Automation** 
 
 ---
 
