@@ -133,18 +133,6 @@ Currently improving my knowledge in:
 
 </div>
 
----
-
-## <img src="https://api.iconify.design/mdi/chart-line.svg?color=white" width="26"/> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joan-areiza&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## <img src="https://api.iconify.design/mdi/email.svg?color=white" width="26"/> Contact
 
 <div align="center">
