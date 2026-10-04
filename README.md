@@ -12,7 +12,6 @@
 <br>
 
 <img src="https://img.shields.io/github/followers/joan-areiza?style=for-the-badge&logo=github&logoColor=white&color=0077B6&labelColor=023047"/>
-<img src="https://komarev.com/ghpvc/?username=joan-areiza&style=for-the-badge&color=0077B6&label=Profile+Views"/>
 
 </div>
 
