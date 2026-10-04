@@ -21,9 +21,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280"/>
 
-Backend Developer focused on building practical, scalable, and well-documented solutions. I combine solid software engineering principles with hands-on experience in Artificial Intelligence to deliver reliable applications for real-world business needs, especially for small and medium-sized companies.
-
-Currently expanding my expertise in Software Architecture, Cloud Computing, and API Development.
+Backend developer specializing in scalable, AI-integrated solutions. Currently expanding expertise in software architecture, cloud computing, and advanced API development.
 
 <br clear="right"/>
 
