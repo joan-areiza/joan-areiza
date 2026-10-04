@@ -59,13 +59,13 @@ Backend developer specializing in scalable, AI-integrated solutions. Currently e
 <tr>
 <td width="50%">
 
-### Banking API
+### AgroFit
 
-REST API focused on authentication, security, and scalability.
+A platform where trainers organize custom workout routines for apprentices and staff.
 
 **Technologies**
 
-`Java` `Spring Boot` `MySQL` `JWT` `Swagger`
+`HTML` `CSS` `JS` `Bootstrap` `MySQL` `SQLite` `Python`
 
 </td>
 <td width="50%">
